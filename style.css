@@ -79,6 +79,13 @@ header {
     margin-left: auto ;
     margin-right: auto ; 
 }
+.para {
+    color: wheat;
+    font-family: 'Gluten', cursive;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
 
 /* profiles */
 .git {
