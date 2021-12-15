@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@200&display=swap');
+
+.navnew {
+    background-color: black;
+}
+.logo {
+    color: white;
+    cursor: pointer;
+    font-family: 'Fredoka One', cursive;
+    padding-left: 3rem;
+    font-size: 1.5rem;
+}   
+
+.menu {
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.3rem;
+    padding-left: 33rem;
+}
+
+/* home, achievements and work */
+#home {
+    background-color: #0E2645;
+}
+#achievements {
+    background-color: #0E2645;
+}
+#works {
+    background-color: #0E2645;
+}
+
+.start-h1 {
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: thistle;
+}
+#fl {
+    color: white;
+    padding: 3rem;
+    font-size: 1.7rem;
+    font-family: 'Gluten', cursive;
+}
+#sl {
+    color: white;
+    padding: 3rem;
+    font-size: 1.3rem;
+    margin-top: -4rem;
+    font-family: 'Gluten', cursive;
+}
+.list {
+    padding: 4.5rem;
+    margin-top: -5rem;
+    font-family: 'Gluten', cursive;
+}
+.listi { 
+    color: blanchedalmond;
+    font-size: 1.2rem;
+}
+
+/* profiles */
+#profiles {
+    background-color: #0E2645;
+}
+.git {
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.code {
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+df-messenger {
+    --df-messenger-button-titlebar-color: #0E2645;
+}
